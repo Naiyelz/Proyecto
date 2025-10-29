@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+}
+
+.fondo{
+    background-image: url(asset/tienda-de-flores-rwphpyb0ojjm9ajz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ZONA 1 DE LA PAGINA */
+
+.Titulo-1{
+  color: silver;  
+  font-family: 'Times New Roman', Times, serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style:italic;
+  font-size: 70px;
+  margin-left: 8%;
+  padding: 10% 30% 0% 0%;
+}
+
+.compra{
+    background-color: whitesmoke;
+    margin: 5% 76% 5% 8%;
+    border-radius: 2%;
+}
+
+.box1{
+    padding: 10% 20% 10% 17%;
+    font-size: 30px;
+}
+
+.box2{
+    background-color: black;
+    display: flex;
+    margin-top: 12%;
+}
+
+.texto1{
+    color: white;
+    font-size: 30px;
+    padding: 3% 3% 2% 1%;
+}
+
+.img-negro{
+    width: 10%;
+    padding-right: 5%;
+}
+
+/* ZONA 2 DE LA PAGINA */
+.titulo-2{
+    font-size: 90px;
+    font-style: italic;
+    margin-top: 35%;
+    margin-bottom: 10%;
+}
+
+.parrafo1{
+    font-size: 20px;
+}
+
+.cuadro2{
+    background-color:black;
+    margin: 5% 30% 5% 0%;
+    border-radius: 2%;
+}
+
+.texto2{
+    color: white;
+    padding: 5% 20% 5% 15%;
+    margin-left: 10%;
+}
+
+.cuadro1{
+    display: flex;
+    margin: 5% 5% 0% 5%;
+    padding-left: 3%;
+}
+
+.img-cuadro1{
+    max-width: 35%;
+    margin-left: 3%;
+    display: block;
+}
+
+.cuadro3{
+    display: flex;
+    margin: 1% 2% 5% 39%;
+}
+
+.precio1{
+    margin-left: 1%;
+}
+
+.precio2{
+    margin-left: 22%;
+}
+
+.precio3{
+    margin-left: 19%;
+}
+
+/* ZONA 3 PARA LA PAGINA */
+.borde{
+    background-color: #e0d5d59c;
+    display: flex;
+}
+
+.img-zona-3{
+    width: 98%;
+    padding: 12%;
+    margin-left: 5%;
+}
+
+.section1{
+    padding: 15% 0% 0% 10%;
+}
+
+.texto3{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-style: italic;
+    margin-top: 10%;
+}
+
+/* ZONA 4 DE LA PAGINA */
+.section-3{
+    margin: 2% 0% 0% 39%;
+}
+
+.h1-3{
+    margin: 0% 0% 2% 4%;
+    font-size: 60px;
+    font-style: italic;
+
+}
+
+.div-cuadro{
+    display: flex;
+    margin: 4% 0% 0% 25%;
+}
+
+.img-cuadro{
+    width: 20%;
+    margin: 0% 0% 0% 1VW;
+}
+
+.div-logo{
+    display: flex;
+    margin-left: 29%;
+}
+
+.img-logo1{
+    width: 8%;
+}
+
+.img-logo2{
+    width: 11%;
+    margin-left: 11vw;
+}
+
+.img-logo3{
+    width: 8%;
+    margin-left: 9vw;
+}
+
+.div-texto{
+    display: flex;
+    margin-left: 15vw;
+}
+
+.h3-texto{
+    margin: 0% 0% 6% 12vw;
+    padding: 0% 0% 0% 1%;
+}
+
+/*ZONA 5 DE LA PAGINA */
+
+.div-5{
+    display: flex;
+}
+
+.img-completo{
+    width: 50%;
+}
+
+.redes-logo{
+    width: 2%;
+}
+
+.div-footer{
+    background-color: #e0d5d59c;
+    display: flex;
+    padding: 4% 0% 1% 0%;
+}
+
+.div-link{
+    margin-left: 2%;
+}
+
+.etiqueta{
+    color: black;
+}
+
+.redes{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.div-formulario{
+    padding-right: 5%;
+}
+
+.registro{
+    font-size: 18px;
+    margin-bottom: 5%;
+}
+
+.email{
+    font-size: 20px;
+    padding:2% 10%;
+}
+
+.enviar{
+    background-color: black;
+    color: whitesmoke;
+    opacity: 90%;
+    font-size: 27px;
+    padding:2% 10%;
+    margin-top: 5%;
+}
+
+.youtube-1{
+    margin-top: 70%;
+}
+
+.youtube-2{
+    color: black;
+}
